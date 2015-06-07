@@ -1,0 +1,9 @@
+---
+slug: :mikutter_premiamu
+depends:
+  mikutter: 3.2.2
+  plugin: []
+version: '1.0'
+author: 
+name: mikutter_premiamu
+description: It's premiamu! Not puremiamu!
