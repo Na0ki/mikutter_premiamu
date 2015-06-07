@@ -2,8 +2,8 @@
 slug: :mikutter_premiamu
 depends:
   mikutter: 3.2.2
-  plugin: []
+  plugin: [activity]
 version: '1.0'
-author: 
+author: ahiru
 name: mikutter_premiamu
 description: It's premiamu! Not puremiamu!
