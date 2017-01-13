@@ -1,2 +1,2 @@
 # mikutter_premiamu
-It's premiamu plugin! Not puremiamu!!
+It's premiamu plugin! Not premium!!
